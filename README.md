@@ -7,19 +7,3 @@ Fora do mundo da programação, sou um entusiasta do Jiu Jitsu, encontrando no t
 
 🚀 Vamos juntos em busca de novos desafios e conquistas no mundo da tecnologia!
 
-Conecte-se comigo
-LinkedIn Discord Facebook Twitter Instagram
-
-Linguagens de Marcação e Estilo
-CSS3 HTML5
-
-Linguagens de Programação
-JavaScript TypeScript Java Python
-
-Bibliotecas e Frameworks
-React React Native Angular
-
-Status
-GitHub Stats
-
-Top Langs
