@@ -1,4 +1,4 @@
-Jeanderson Sena
+
 🎓 Formado em Mecatrônica 📚 Estudante de Análise e Desenvolvimento de Sistemas 🥋 Amante do Jiu Jitsu 💻 Em busca de me tornar um desenvolvedor Full Stack em Java 🏠Salvador, BA 🌴
 
 📖 Sobre Mim: Olá! Sou um apaixonado por tecnologia com formação em Mecatrônica e uma paixão por desenvolvimento de software. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas para aprimorar minhas habilidades em programação e me tornar um desenvolvedor Full Stack, com foco em Java.
